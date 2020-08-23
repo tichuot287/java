@@ -16,11 +16,11 @@ Your application should do the following:
 * The user should be prompted to enter the name and year for each student
 * The student should have a 5-digit unique ID, with the first number being their grade level
 * A student can enroll in the following courses:
-<pre><code>*History 101*</code></pre>
-<pre><code>*Mathematics 101*</code></pre>
-<pre><code>*English 101*</code></pre>
-<pre><code>*Chemistry 101*</code></pre>
-<pre><code>*Computer Science 101*</code></pre>
+&nbsp;&nbsp;&nbsp;&nbsp;*History 101*
+&nbsp;&nbsp;&nbsp;&nbsp;*Mathematics 101*
+&nbsp;&nbsp;&nbsp;&nbsp;*English 101*
+&nbsp;&nbsp;&nbsp;&nbsp;*Chemistry 101*
+&nbsp;&nbsp;&nbsp;&nbsp;*Computer Science 101*
 * Each coure costs $600
 * The student should be able to view their balance and pay the tuition
 * To see the status of the student, we should see their name, ID, courses enrolled and balance.
