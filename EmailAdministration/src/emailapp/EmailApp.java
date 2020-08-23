@@ -11,5 +11,11 @@ public class EmailApp {
         String lastName = name.nextLine();
         Email em1 = new Email(firstName,lastName);
         System.out.println(em1.showInfo());
+
+        /**
+         em1.changePassword("abcd1234");
+         System.out.println(em1.getPassword());*/
+
+
     }
 }
